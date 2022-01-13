@@ -1,0 +1,15 @@
+C:\Users\ASHISH\source\Demo_Project\Demo_Project_Backend\Repository\bin\Debug\net5.0\DemoRepository.deps.json
+C:\Users\ASHISH\source\Demo_Project\Demo_Project_Backend\Repository\bin\Debug\net5.0\DemoRepository.runtimeconfig.json
+C:\Users\ASHISH\source\Demo_Project\Demo_Project_Backend\Repository\bin\Debug\net5.0\DemoRepository.runtimeconfig.dev.json
+C:\Users\ASHISH\source\Demo_Project\Demo_Project_Backend\Repository\bin\Debug\net5.0\DemoRepository.dll
+C:\Users\ASHISH\source\Demo_Project\Demo_Project_Backend\Repository\bin\Debug\net5.0\ref\DemoRepository.dll
+C:\Users\ASHISH\source\Demo_Project\Demo_Project_Backend\Repository\bin\Debug\net5.0\DemoRepository.pdb
+C:\Users\ASHISH\source\Demo_Project\Demo_Project_Backend\Repository\obj\Debug\net5.0\DemoRepository.csproj.AssemblyReference.cache
+C:\Users\ASHISH\source\Demo_Project\Demo_Project_Backend\Repository\obj\Debug\net5.0\DemoRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASHISH\source\Demo_Project\Demo_Project_Backend\Repository\obj\Debug\net5.0\DemoRepository.AssemblyInfoInputs.cache
+C:\Users\ASHISH\source\Demo_Project\Demo_Project_Backend\Repository\obj\Debug\net5.0\DemoRepository.AssemblyInfo.cs
+C:\Users\ASHISH\source\Demo_Project\Demo_Project_Backend\Repository\obj\Debug\net5.0\DemoRepository.csproj.CoreCompileInputs.cache
+C:\Users\ASHISH\source\Demo_Project\Demo_Project_Backend\Repository\obj\Debug\net5.0\DemoRepository.dll
+C:\Users\ASHISH\source\Demo_Project\Demo_Project_Backend\Repository\obj\Debug\net5.0\ref\DemoRepository.dll
+C:\Users\ASHISH\source\Demo_Project\Demo_Project_Backend\Repository\obj\Debug\net5.0\DemoRepository.pdb
+C:\Users\ASHISH\source\Demo_Project\Demo_Project_Backend\Repository\obj\Debug\net5.0\DemoRepository.genruntimeconfig.cache
