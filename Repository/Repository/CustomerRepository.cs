@@ -1,4 +1,4 @@
-﻿using DemoRepository.Interfaces;
+using DemoRepository.Interfaces;
 using DemoRepository.Models;
 using DemoRepository.Models.ViewModels;
 using System.Collections.Generic;
@@ -14,6 +14,12 @@ namespace DemoRepository.Repository
         public CustomerRepository(masterContext db)
         {
             _db = db;
+        }
+        public void delete()
+        {
+            _db.Database.ExecuteSqlRaw("delete from [CustomerInformation]");
+            _db.Database.ExecuteSqlRaw("delete from [CustomerProfession]");
+            _db.Database.ExecuteSqlRaw("delete from [CustomerAddress]");
         }
         public async Task<List<CustomerDetails>> GetCustomers()
         {
