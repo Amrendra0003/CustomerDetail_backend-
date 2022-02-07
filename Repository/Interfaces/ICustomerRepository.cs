@@ -11,5 +11,6 @@ namespace DemoRepository.Interfaces
         Task<int> AddCustomerAddress(CustomerAddress customerAddress);
         Task<int> AddCustomerProfession(CustomerProfession customerProfession);
         Task<int> AddCustomerInformation(CustomerInformation customerInformation);
+        void delete();
     }
 }
